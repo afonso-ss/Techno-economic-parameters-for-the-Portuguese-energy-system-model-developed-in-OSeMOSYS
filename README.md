@@ -1,0 +1,1 @@
+This repository contains the input techno-economic and functional parameters of a model representing the Portuguese energy system. This model was developed in the context of a master's thesis entitled " The severeal paths for the self-sufficiency of the Portuguese energy system". This model was developed using the OSeMOSYS modelling tool.
